@@ -47,7 +47,7 @@
 <a href="https://www.instagram.com/fer86_mu?igsh=MXViZ2F1MnhncHYxaw=="><img src="https://img.shields.io/badge/-@Fernando-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/share/rykMm3KkBEPU5Z3X/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/-Fernando-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/fernando-muñoz-7458a1246/"><img src="https://img.shields.io/badge/fernando-0077B5?style=flat&logo=Linkedin&logoColor=white&labelColor=0077B5"/></a>
-<a href="https://github.com/https://github.com/fermumu"><img src="https://img.shields.io/badge/-fermumu-333333?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/fermumu"><img src="https://img.shields.io/badge/-fermumu-333333?style=flat&logo=github&logoColor=white"/></a>
 
 
 </p>
