@@ -15,7 +15,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a profundizar mis conocimientos en UI y en crear proyectos pequeños.\
 💬 &nbsp;Please feel free to contact me for consulting or just to have an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at fernando1986caballeria@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.ngh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 
 
