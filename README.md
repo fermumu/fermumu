@@ -7,7 +7,6 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
 
 # 👨🏻‍💻 Héctor Fernando Muñoz Muñoz  
 
@@ -25,7 +24,6 @@
 ### 🔗 Encuéntrame en:  
 - 📧 **Email:** fernando.munoz.dev1@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hector-fernando-mu%C3%B1oz-mu%C3%B1oz-7458a1246/)  
-- 💻 [GitHub](https://github.com/fermumu)  
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
