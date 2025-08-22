@@ -9,15 +9,23 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm a recent graduate of university with a degree in software engineering.\
-🌱 &nbsp;I'm on my way to learning more about Artificial Intelligence, how to apply it in everyday life and get the most out of it.\
-✍️ &nbsp;En mi tiempo libre, me dedico a profundizar mis conocimientos en UI y en crear proyectos pequeños.\
-💬 &nbsp;Please feel free to contact me for consulting or just to have an interesting discussion.\
-✉️ &nbsp;You can shoot me an email at fernando1986caballeria@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+# 👨🏻‍💻 Héctor Fernando Muñoz Muñoz  
 
+### 🚀 Desarrollador Fullstack Java | Ingeniero de Software  
 
+💡 Soy Ingeniero de Software especializado en el desarrollo de aplicaciones web y móviles, con dominio de **Java, Spring Boot, React.js, Node.js, Flutter y MySQL**.  
+⚡ Me apasiona crear soluciones **escalables, seguras y de alto rendimiento**, aplicando principios **SOLID** y buenas prácticas de desarrollo limpio.  
+🌱 Estoy en constante aprendizaje, explorando nuevas tecnologías y mejores formas de optimizar procesos.  
+🎯 Mi objetivo es aportar valor a proyectos innovadores que generen impacto real en las personas y organizaciones.  
+
+📄 Aquí puedes consultar mi [Currículum Vitae](CV-Hector%20Muñoz.pdf).  
+
+---
+
+### 🔗 Encuéntrame en:  
+- 📧 **Email:** fernando.munoz.dev1@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hector-fernando-mu%C3%B1oz-mu%C3%B1oz-7458a1246/)  
+- 💻 [GitHub](https://github.com/fermumu)  
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
